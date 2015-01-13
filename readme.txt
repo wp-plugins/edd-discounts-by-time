@@ -11,7 +11,11 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 This is Easy Digital Downloads add-on. This plugin enables you to provide time specific discounts.
 
 == Description ==
-
+An online retail research report says the more discounts an online store offers, the happier its users are! And this add-on is just another way to increase the number of happy customers in your site.
+We bring you the EDD Discounts by Time add-on plugin. With this super plugin, you to restrict an EDD discount code that can be used only during a specific time of a day. The plugin can be great for popularizing your store in the online retail arena. 
+Just enter the time, in the provided fields of the settings page, till which you want a discount to be available in your site and keep surprising the customers with some crazy, thrilling, last moment offers like �
+'Special Weekend Sale' or 'Sunday Special Discount' (which can be valid for 12hrs).
+'Early Bird Sale' (a discount that can be availed only within the first 30mins after a brand new product is added to the shop).
 
 == Installation ==
 You can download and install Edd Discounts By Time using the built in WordPress plugin installer. If you download Edd Discounts By Time manually, make sure it is uploaded to `/wp-content/plugins/edd_discounts_by_time/`.
